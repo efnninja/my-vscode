@@ -1,0 +1,34 @@
+{
+  "recommendations": [
+    // Recommended extensions
+    "vscodevim.vim",
+    "antfu.browse-lite",
+    // themes & icons
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
+    "file-icons.file-icons",
+    "sainnhe.gruvbox-material",
+    // life savers!
+    "dbaeumer.vscode-eslint",
+    "mgmcdermott.vscode-language-babel",
+    "aaron-bond.better-comments",
+    "visualstudioexptteam.vscodeintellicode",
+    "johnsoncodehk.volar",
+    "bradlc.vscode-tailwindcss",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    // up to you
+    "eamodio.gitlens",
+    "ms-azuretools.vscode-docker",
+    "ms-vsliveshare.vsliveshare",
+    "leonardssh.vscord",
+    "ecmel.vscode-html-css",
+    "zignd.html-css-class-completion",
+    "GitHub.vscode-pull-request-github",
+    "mpontus.tab-cycle",
+    "naumovs.color-highlight",
+    "richie5um2.vscode-sort-json",
+    "WakaTime.vscode-wakatime"
+  ]
+}
