@@ -9,7 +9,7 @@
 - [Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)
 - [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-- [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode))
+- [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
 - [Moon](https://marketplace.visualstudio.com/items?itemName=arah24.moon)
